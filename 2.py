@@ -5,7 +5,6 @@ import requests
 import uuid
 from datetime import datetime
 import pytz
-import clipboard
 from googletrans import Translator
 from streamlit_lottie import st_lottie
 from tensorflow.keras.models import load_model
