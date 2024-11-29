@@ -1,6 +1,5 @@
 import streamlit as st
 from streamlit_card import card as stc
-import joblib
 import random, csv
 import requests
 import uuid
